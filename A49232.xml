@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French King's new declaration published at Paris, the 26th of this instant September, 1699.</title>
+            <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49232</idno>
+            <idno type="STC">Wing L3133</idno>
+            <idno type="STC">ESTC R5780</idno>
+            <idno type="EEBO-CITATION">11964229</idno>
+            <idno type="OCLC">ocm 11964229</idno>
+            <idno type="VID">51657</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49232)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51657)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 817:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French King's new declaration published at Paris, the 26th of this instant September, 1699.</title>
+                  <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Harrison ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France. --  Edit de Nantes.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Sources.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:51657:1" rendition="simple:additions"/>
+            <head>The French King's New DECLARATION, Publiſhed at <hi>Paris,</hi> the 26th of this Inſtant <hi>September,</hi> 1699.</head>
+            <head type="sub">Our laſt <hi>French Mail</hi> brings the following Advices.</head>
+            <opener>
+               <dateline>Paris, <date>Sept. 26.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>I</hi> Have frequently given you an Ac<g ref="char:EOLhyphen"/>count, That the Perſecution rages in this Kingdom more and more, and to confirm the ſame, have ſent you His Majeſty's Declaration, ſigned Yeſterday in Parliament, by which you may perceive, That whereas ſome of th Judges did formerly take Occaſion, from ſome Expreſ<g ref="char:EOLhyphen"/>ſions in former Declarations, to ſuſpend for<g ref="char:EOLhyphen"/>feiting the Eſtates of thoſe who have left the Kingdom, it is not now in their Power to ſhew ſo much Mercy, and at the ſame time you will be ſatisfied, That I did not miſin<g ref="char:EOLhyphen"/>form you, when I ſaid, That all the Methods hitherto taken, have not been able to ſuppreſs the Reformed Religion here, nor to hinder the Subjects of both Religions, to leave this miſerable Kingdom in great Numbers. The <hi>Declaration</hi> is to the Effect following:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <opener>
+                           <signed>
+                              <hi>LOuis,</hi> &amp;c.</signed>
+                        </opener>
+                        <p>—By our Declarations and Edicts of <hi>Auguſt,</hi> 1699. and <hi>May</hi> and <hi>July</hi> 1682. we forbad our Subjects to depart out of the Kingdom, in order to ſettle in Foreign Countries, on pain of Con<g ref="char:EOLhyphen"/>fiſcation of Body and Eſtate; which by our Declaration of <hi>May</hi> 1685. we commuted into that of the Gallies for ever: And by our Revocation of the Edict of <hi>Nantes,</hi> in <hi>October</hi> 1685. we particularly forbad our Subjects of the pretended Reformed Reli<g ref="char:EOLhyphen"/>gion, to go out of our Dominions, with their Wives and Children, on pain of the Men's being ſent to the Gallies, and the Womens being confiſcated in Body and E<g ref="char:EOLhyphen"/>ſtate: And being inform'd, that notwith<g ref="char:EOLhyphen"/>ſtanding all this, many of our Subjects, who had converted themſelves to the Ca<g ref="char:EOLhyphen"/>tholick, Apoſtolick and Roman Religion, returning to their former Errors, had re<g ref="char:EOLhyphen"/>tired into Foreign Countries, where they might enjoy the unhappy Liberty of the Exerciſe and Profeſſion of it, we did by our Declaration of <hi>May</hi> 1686. order, That thoſe who attempted to leave the Kingdom, ſhould be ſeized on the Frontiers, the Men ſent to the Gallies for ever, and the Women ſhut up during their Lives, in ſuch Places as our Judges ſhall think me<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t, and their E<g ref="char:EOLhyphen"/>ſtates confiſcated to ou<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Uſe, even in thoſe Countries where Confiſcation was not pra<g ref="char:EOLhyphen"/>ctiſed; and that thoſe alſo who aſſiſted them in their Eſcape, directly or indirectly; ſhould incur the ſame Penalties.</p>
+                        <p>And, in fine, by our <hi>Declaration</hi> of <hi>February</hi> laſt, we ordered, That all the Edicts, <hi>&amp;c.</hi> before-mentioned ſhould be put in Execution, and renewed our Prohibitions againſt the New Converts going out of the Kingdom, on the Penal<g ref="char:EOLhyphen"/>ties before ſpecified. And tho' there was much greater Reaſon, that ſame Penal<g ref="char:EOLhyphen"/>ties ſhould take place againſt thoſe who had ſconſummated their diſobedience by their actual going out of the Kingdom, in con<g ref="char:EOLhyphen"/>tempt of our ſo often repeated Prohibiti<g ref="char:EOLhyphen"/>ons.</p>
+                        <p>Yet being informed, That ſome of our Judges and Officers doubted whether it were our Intention, that ſuch Perſons ſhould be condemned, according to the Penaltes of our ſaid Declarations, becauſe in our De<g ref="char:EOLhyphen"/>claration of the 11th of <hi>February</hi> laſt, we had not expreſly ordered it; and that in our Edict of <hi>Decemb.</hi> 1698. we had or<g ref="char:EOLhyphen"/>dered, that the Eſtates left by ſuch of our Subjects, ſhould belong to thoſe that ought to ſucceed them, in caſe of Natural Death. And though by attending to our Declara<g ref="char:EOLhyphen"/>tion of the 11th of <hi>February</hi> laſt, they might have been ſatisfied of that Matter, we have nevertheleſs thought fit to explain our Meaning, for the removing all doubts con<g ref="char:EOLhyphen"/>cerning that Affair, and for the cutting off at the ſame time all hopes from the New Converts of enjoying any part of their Eſtates, by means of their Children or next Relations, who ſhould have ſucceeded them as in caſe of Death, after their having left the Kingdom: We do by theſe Preſents, ſigned by our own Hand, Declare, Ordain and Will, That all the Declarations and Edicts before-mentioned, be put in Execu<g ref="char:EOLhyphen"/>tion, according to their Form and Tenor: And that Proceſs be compleated againſt all our Subjects of the pretended Reformed Religion: And New Converts, who leave or attempt to leave the Kingdom without our Permiſſion, <hi>viz.</hi> That the Men be ſent to the Gallies for ever, the Women ſhut up during Life, and their Eſtates confiſca<g ref="char:EOLhyphen"/>ted to our Uſe: And in caſe their Eſtates lie in thoſe particular Seignieuries, where
+<pb facs="tcp:51657:2"/> Confiſcation has no Place, that the Crimi<g ref="char:EOLhyphen"/>nals be fin'd in half the value of their Eſtates for our Uſe. And <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> O<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>in an<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Will, That thoſe who contribute, directly or In<g ref="char:EOLhyphen"/>directly, to their eſcape, be puniſhed in the ſame Manne<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</p>
+                        <closer>
+                           <dateline>Given at <hi>Fountain<gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>leau</hi>
+                              <date>Septemb. 13, 1699.</date>
+                           </dateline>
+                           <signed>Signed <hi>Louis,</hi>
+                           </signed>
+                        </closer>
+                        <postscript>
+                           <p>a<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>d Re<g ref="char:EOLhyphen"/>giſtred in Parliament, Sep. 25. 1699.</p>
+                           <closer>
+                              <signed>Sign<g ref="char:EOLhyphen"/>ed, <hi>Dongois.</hi>
+                              </signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Yeſterday alſo there was regiſtred in Par<g ref="char:EOLhyphen"/>liament a Declaration by his Majeſty; <q>For Regulating the Traffick of Corn in the Kingdom. In the <hi>Preface</hi> it takes notice, That the dearth of Corn had not ſo much proceeded from bad Harveſts, as from the Covetouſneſs of ſome Perſons, who, tho' they were not Corn-Merchants by pro<g ref="char:EOLhyphen"/>feſſion, had nevertheleſs warm'd themſelves into that Trade; and their chief End be<g ref="char:EOLhyphen"/>ing to make Profit to themſelves by the Neceſſity of the Publick, they concurr'd together to lay up hidden Magazines, whi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h occaſioning a Scarcity and Dearth, gave them an Opportunity to ſell the Corn at a much higher Rate than they bought it. That his Majeſty would have reme<g ref="char:EOLhyphen"/>died that diſorder ſooner, but that he ſtaid for a more convenient Seaſon, and better Harveſt than the laſt; and having Advice that the Harveſt had been good this Year in moſt of the Provinces, he judged it time to redreſs that Diſorder, which is ſo much contrary to good Manners and pre<g ref="char:EOLhyphen"/>judicial to the Publick. And therefore he commands all thoſe who trade in Corn, to take Licenſes from the Officers of Ju<g ref="char:EOLhyphen"/>ſtice, and the Oaths appointed for that End, and to regiſter the ſame: And that none other preſume to Trade therein, on pain of forfeiting the Corn, and being fined in 500 Livres, and declar'd uncapable of following, that Traffick any more. Half the Corn is to be given the Informer. All Labourers, Gentlemen, Officers, and thoſe concern'd in the Revenue, are forbid med<g ref="char:EOLhyphen"/>dling with this Commerce, on pain of 2000 Livres Fine and bodily Puniſhment; half the Fine to be given <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Informer: And the Officers who g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lic<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſes to ſuch are to loſe their Places. No Corn-Merchents are to contract any Society with o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her Corn Me<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chant<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, on the ſame P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nalties. And all <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>argains made this Harveſt for Corn upon the Ground are declar'd Null, and the like in time to come, under the Penalty of confiſcating the Corn, a Fine of 3000 Livres, loſing their Advance Mo<g ref="char:EOLhyphen"/>ney, and being rendred uncapable of that Trade for the future.</q>
+            </p>
+            <p>Yeſterday likewiſe an Arreſt of the Coun<g ref="char:EOLhyphen"/>cil of State was Regiſtred in the Court of the Mint, for raiſing the Value of the Species, <hi>viz.</hi> The Species of the firſt Re<g ref="char:EOLhyphen"/>form, the Crown at 67 Sous, the Louis<g ref="char:punc">▪</g> Or at 12 Livers 15 Sous, throughout the K<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng<g ref="char:EOLhyphen"/>dom of <hi>France.</hi> In the new Conqu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſts, the <hi>Flanders</hi> Pieces of 4 Livres, not reform'd to 4 Livres 6 Sous.</p>
+            <p>The Speices not reform'd and cried down, and thoſe of the firſt Reform in the Mints, and Offices of Receipt for the King, the Crown at 69 Sous, the Louis'd Or at 13 Liv. 5 <hi>s</hi> and the Pieces of 4 Livres, at 4 Livres 10 Sous.</p>
+            <p>The Reals of Weight, except thoſe of <hi>Peru</hi> and <hi>Chapelet,</hi> at 66 Sous, and in the Officers of Recepts at 68 Sous.</p>
+            <p>The Spaniſh-Piſtoles, of weight at 12 <hi>l.</hi> 5 <hi>s.</hi> and in the Officers of Receipt at 13 <hi>l.</hi> 5 <hi>s.</hi>
+            </p>
+            <p>In the Mint, the Mark of Reals at 30 Li<g ref="char:EOLhyphen"/>vres 10 Sous, and of Piſtoles at 480 Livres. And that Materials of Silver and Gold may be augmented according to the Valuation of the Spices, the Mark of fine Silver, or of 12 Deniers, is to be 33 Livres 10 Sous; and the Mark of fine Gold, or of 24 Ca<g ref="char:EOLhyphen"/>rats, at 502 Livres 10 Sous.</p>
+            <closer>
+               <dateline>Done in the Council of State at <hi>Fountainbleau,</hi> 
+                  <date>Septem<g ref="char:EOLhyphen"/>ber 22. 1699.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licens'd according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Harriſon,</hi> in <hi>Cornhill,</hi> 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
